@@ -1,6 +1,7 @@
 [
     {
       "id": 1,
+      "template": "template 1",
       "name": "Curriculum 3 - Leçon 1",
       "image": "C3L1",
       "instruction": "C1L1-instruction",
