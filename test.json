@@ -1,12 +1,134 @@
 [
-	{
-		"id": 1,
-		"name": "Curriculum 1 - Leçon 1",
-		"description": "Pré séance"
-	},
-	{
-		"id": 2,
-		"name": "Curriculum 1 - Leçon 2",
-		"description": "Porter attention à Leka"
-	}
+    {
+      "id": 1,
+      "name": "Curriculum 3 - Leçon 1",
+      "image": "C3L1",
+      "instruction": "C1L1-instruction",
+      "information": "fr.c3.1l1",
+      "informationImage": "C3.1L1",
+      "description": "Trier sans erreur",
+      "application": 3.1,
+      "step": [10]
+      },
+      {
+      "id": 2,
+      "name": "Curriculum 3 - Leçon 2",
+      "image": "C3L1",
+      "instruction": "C1L2-instruction",
+      "information": "fr.c3.1l2",
+      "informationImage": "C3.1L2",
+      "description": "Trier avec un intrus",
+      "application": 3.1,
+      "step": [10]
+      },
+      {
+      "id": 3,
+      "name": "Curriculum 3 - Leçon 3",
+      "image": "C3L1",
+      "instruction": "C1L3-instruction",
+      "information": "fr.c3.1l3",
+      "informationImage": "C3.1L3",
+      "description": "Trier avec plusieurs intrus",
+      "application": 3.1,
+      "step": [10]
+      },
+      {
+      "id": 4,
+      "name": "Curriculum 3 - Leçon 4",
+      "image": "C3L1",
+      "instruction": "C1L4-instruction",
+      "information": "fr.c3.1l4",
+      "informationImage": "C3.1L4",
+      "description": "Trier sans indication",
+      "application": 3.1,
+      "step": [10]
+      },
+      {
+      "id": 5,
+      "name": "Curriculum 3 - Leçon 5",
+      "image": "C3L1",
+      "instruction": "C1L5-instruction",
+      "information": "fr.c3.2l5",
+      "informationImage": "C3.2L5",
+      "description": "Trier par catégories de 2 images",
+      "application": 3.5,
+      "step": [10]
+      },
+      {
+      "id": 6,
+      "name": "Curriculum 3 - Leçon 6",
+      "image": "C3L1",
+      "instruction": "C1L6-instruction",
+      "information": "fr.c3.2l6",
+      "informationImage": "C3.2L6",
+      "description": "Trier par catégories de 3 images",
+      "application": 3.5,
+      "step": [10]
+      },
+      {
+      "id": 7,
+      "name": "Curriculum 3 - Leçon 7",
+      "image": "C3L1",
+      "instruction": "C1L7-instruction",
+      "information": "fr.c3.2l7",
+      "informationImage": "C3.2L7",
+      "description": "Trier en 3 catégories d'images",
+      "application": 3.5,
+      "step": [10]
+      },
+      {
+      "id": 8,
+      "name": "Curriculum 3 - Leçon 8",
+      "image": "C3L1",
+      "instruction": "C1L7-instruction",
+      "information": "fr.c3.3l8",
+      "informationImage": "C3.3L8",
+      "description": "Trier par catégorie fonctionnelle sans erreur",
+      "application": 3.8,
+      "step": [10]
+      },
+      {
+      "id": 9,
+      "name": "Curriculum 3 - Leçon 9",
+      "image": "C3L1",
+      "instruction": "C1L7-instruction",
+      "information": "fr.c3.3l9",
+      "informationImage": "C3.3L9",
+      "description": "Trier 1 image par catégorie fonctionnelle",
+      "application": 3.8,
+      "step": [10]
+      },
+      {
+      "id": 10,
+      "name": "Curriculum 3 - Leçon 10",
+      "image": "C3L1",
+      "instruction": "C1L7-instruction",
+      "information": "fr.c3.3l10",
+      "informationImage": "C3.3L10",
+      "description": "Trier 2 images par catégorie fonctionnelle",
+      "application": 3.8,
+      "step": [10]
+      },
+      {
+      "id": 11,
+      "name": "Curriculum 3 - Leçon 11",
+      "image": "C3L1",
+      "instruction": "C1L7-instruction",
+      "information": "fr.c3.3l11",
+      "informationImage": "C3.3L11",
+      "description": "Trier par catégorie fonctionnelle avec intrus",
+      "application": 3.8,
+      "step": [10]
+      },
+      {
+      "id": 12,
+      "name": "Curriculum 3 - Leçon 12",
+      "image": "C3L1",
+      "instruction": "C1L7-instruction",
+      "information": "fr.c3.3l12",
+      "informationImage": "C3.3L12",
+      "description": "Trier 6 images par catégorie fonctionnelle",
+      "application": 3.8,
+      "step": [10]
+      }
 ]
