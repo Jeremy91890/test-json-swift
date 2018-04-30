@@ -1,96 +1,22 @@
-{
-	"id": 1,
-	"language": "fr_FR",
-
-	"title": "Travailler la demande",
-	
-	"use": "travailler la demande",
-	"tools": ["Leka", "iPad", "application"],
-
-	"course": "n/a",
-
-	"level":"Pre-school - 12-18 mois",
-
-	"skills": {
-		"primary": "social interactions",
-		"secondary": "turn taking",
-		"misc": [
-			"motor skills",
-			"sensory processing"
-		]
+[
+	{
+		"id": 1,
+		"name": "Curriculum 1 - Leçon 1",
+		"image": "C1L1",
+		"information": "fr.c1l1",
+		"informationImage": "c1l1-1",
+		"description": "Pré séance",
+		"application": "0",
+		"step": [0]
 	},
-
-	"numberOfLessons": 7,
-	"lessons": [
-		{
-			"id": 1,
-			"name": "Curriculum 1 - Leçon 1",
-			"image": "C1L1",
-			"information": "fr.c1l1",
-			"informationImage": "c1l1-1",
-			"description": "Pré séance",
-			"application": "0",
-			"step": [0]
-		},
-		{
-			"id": 2,
-			"name": "Curriculum 1 - Leçon 2",
-			"image": "C1L1",
-			"information": "fr.c1l2",
-			"informationImage": "c1l2-1",
-			"description": "Porter attention à Leka",
-			"application": "1",
-			"step": [5]
-		},
-		{
-			"id": 3,
-			"name": "Curriculum 1 - Leçon 3",
-			"image": "C1L2",
-			"information": "fr.c1l3",
-			"informationImage": "c1l3-1",
-			"description": "Regarder et s'approcher de Leka",
-			"application": "1",
-			"step": [5]
-		},
-		{
-			"id": 4,
-			"name": "Curriculum 1 - Leçon 4",
-			"image": "C1L3",
-			"information": "fr.c1l4",
-			"informationImage": "c1l4-1",
-			"description": "Toucher Leka",
-			"application": "1",
-			"step": [5]
-		},
-		{
-			"id": 5,
-			"name": "Curriculum 1 - Leçon 5",
-			"image": "C1L4",
-			"information": "fr.c1l5",
-			"informationImage": "c1l5-1",
-			"description": "Se déplacer pour toucher Leka",
-			"application": "1",
-			"step": [5]
-		},
-		{
-			"id": 6,
-			"name": "Curriculum 1 - Leçon 6",
-			"image": "C1L5",
-			"information": "fr.c1l6",
-			"informationImage": "c1l6-1",
-			"description": "Aller chercher Leka et le rapporter au professionnel",
-			"application": "1",
-			"step": [5]
-		},
-		{
-			"id": 7,
-			"name": "Curriculum 1 - Leçon 7",
-			"image": "C1L7",
-			"information": "fr.c1l7",
-			"informationImage": "c1l7-1",
-			"description": "Aller chercher spontanément Leka pour le donner à l’adulte",
-			"application": "1",
-			"step": [5]
-		}
-	]
-}
+	{
+		"id": 2,
+		"name": "Curriculum 1 - Leçon 2",
+		"image": "C1L1",
+		"information": "fr.c1l2",
+		"informationImage": "c1l2-1",
+		"description": "Porter attention à Leka",
+		"application": "1",
+		"step": [5]
+	}
+]
