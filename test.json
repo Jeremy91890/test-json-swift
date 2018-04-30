@@ -2,21 +2,11 @@
 	{
 		"id": 1,
 		"name": "Curriculum 1 - Leçon 1",
-		"image": "C1L1",
-		"information": "fr.c1l1",
-		"informationImage": "c1l1-1",
 		"description": "Pré séance",
-		"application": "0",
-		"step": [0]
 	},
 	{
 		"id": 2,
 		"name": "Curriculum 1 - Leçon 2",
-		"image": "C1L1",
-		"information": "fr.c1l2",
-		"informationImage": "c1l2-1",
 		"description": "Porter attention à Leka",
-		"application": "1",
-		"step": [5]
 	}
 ]
